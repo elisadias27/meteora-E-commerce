@@ -1,0 +1,50 @@
+
+
+:root{
+    --cinza-claro: #CCCCCC;
+    --amrelo-neon: #DAFF01;
+    --lílas: #9353FF;
+    --rosa: #EE6471;
+    --laranja: #F87F46;
+
+    --fonte-principal: 'Inter', sans-serif;
+}
+
+.texto-menor{
+    font-size: 13px;
+}
+
+.facilidades {
+    width: 325px;
+}
+
+.rodape {
+    background-color: black;
+}
+
+p {
+    color: white;
+    font-size: 13px;
+}
+
+.neon {
+    color: var(--amrelo-neon);
+}
+
+.lilas {
+    background-color: var(--lílas);
+}
+
+.texto {
+    color: black;
+}
+
+.titulo-carossel {
+    font-family: var(--fonte-principal);
+    font-size: 48px;
+}
+
+.texto-carossel {
+    font-family: var(--fonte-principal);
+    font-size: 28px;
+}
